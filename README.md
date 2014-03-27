@@ -1,3 +1,3 @@
 AncientJS
 =========
-SOLID
+SOLID, HIGH PERFORMACE, LOW LATENCY
